@@ -2,22 +2,25 @@
 Bullet Physics SDK for Unreal Engine 
 
 ## Screenshots
-| Physics asset | Editor |
-|:-------------:|:------:|
-| ![alt text](https://github.com/Yadhu-S/BulletPhysicsPlugin/blob/dev/screenshots/UE_physics_view.png?raw=true) | ![alt text](https://github.com/Yadhu-S/BulletPhysicsPlugin/blob/dev/screenshots/UE_viewport.png?raw=true) |
+![alt text](https://github.com/Yadhu-S/BulletPhysicsPlugin/blob/68dad0b375008f17c003d37499c1398a1eaa7626/screenshots/UE_viewport.png) 
+![alt text](https://github.com/Yadhu-S/BulletPhysicsPlugin/blob/2022f246308845c2990ac2539dfe36abaa5adea7/screenshots/UE_physics_view.png) 
 
 
 
-## Status - Experimental
-Please make your own fork if you decide to use this
+## Status Experimental, but somewhat useable.
+#### Please make your own fork if you decide to use this.
+
 Implementing and adding support for a custom USkeletalMeshComponent. It supports compound shapes.
+
 *This is a work in progress (very WIP) :), use the originally forked repo mentioned below if you want something usable.*
 
+## How to use
+
 ### Windows
-Clone this repo into your `Plugin` directory of your choice `Engine` or `<Your project Dir>`.
+Clone this repo into a `Plugin` directory of your choice, `Engine` or `<Your project Dir>`.
 
 ### Linux
-Clone this repo into your `Plugin` directory of your choice `Engine` or `<Your project Dir>`.
+Clone this repo into a `Plugin` directory of your choice, `Engine` or `<Your project Dir>`.
 
 ### Mac
 Might work, no idea
